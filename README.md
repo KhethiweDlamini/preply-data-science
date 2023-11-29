@@ -3,4 +3,4 @@ This repository contains exercises and projects I am completing as part of the c
 
 I also document important techniques and knowledge I will continue to use on my journey to becoming a data scientist! 🤓
 
-Language: Python
+Language: Python (Using Google Colab)
